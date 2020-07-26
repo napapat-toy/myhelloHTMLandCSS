@@ -1,0 +1,9 @@
+.box {
+    background-color: lightcyan;
+    border: 1px solid lightslategray;
+    margin: 40px;
+    padding: 30px;
+    width: 20%;
+    box-shadow: -10px -10px 9px 0px rgba(121, 143, 251, 1),
+                10px 10px 9px 0px rgb(255, 186, 96);
+}
