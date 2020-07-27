@@ -1,0 +1,15 @@
+.image-30-percent {
+    width: 30%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 10px;
+}
+
+.title {
+    font-size: 40px;
+}
+
+.lorem {
+    font-size: 30px;
+    clear: both;
+}

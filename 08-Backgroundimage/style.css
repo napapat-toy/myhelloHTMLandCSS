@@ -1,0 +1,18 @@
+.html , body {
+    margin: 0;
+    padding: 0;
+}
+
+.bg-image {
+    padding: 360px 80px;
+    background-color: #000000;
+    background-image: url('https://cdn.pixabay.com/photo/2013/03/19/23/07/easter-bunny-95096_960_720.jpg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+.text {
+    color: white;
+    text-align: center;
+}

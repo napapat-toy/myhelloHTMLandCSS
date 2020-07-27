@@ -1,0 +1,14 @@
+.image-1 {
+    width: 100%;
+    filter: grayscale(100%);
+}
+
+.image-2 {
+    width: 100%;
+    filter: sepia(100%);
+}
+
+.image-3 {
+    width: 100%;
+    filter: blur(4px);
+}
