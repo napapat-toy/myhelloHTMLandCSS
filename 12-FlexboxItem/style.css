@@ -1,0 +1,45 @@
+.flexbox {
+    display: flex;
+    flex-wrap: wrap;
+    box-sizing: border-box;
+    margin: 0px -10px;
+}
+
+.item {
+    display: block;
+    box-sizing: border-box;
+    margin-bottom: 20px;
+    padding: 0px 10px;
+}
+
+/* .item4 {
+    width: 33.33%;
+}
+
+.item-8 {
+    width: 66.66%;
+} */
+
+.leftbar {
+    width: 300px;
+}
+
+.leftbar-content {
+    background-color: coral;
+}
+
+.main {
+ flex-grow: 1;
+}
+
+.main-content {
+    background-color: cornflowerblue;
+}
+
+.content {
+    /* background-color: wheat; */
+    border: 2px solid black;
+    font-size: 18px;
+    box-sizing: border-box;
+    padding: 10px;
+}
